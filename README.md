@@ -40,19 +40,16 @@ This project demonstrates the effectiveness of CNNs in digit recognition tasks. 
 ### Visualization Explanations
 
 #### Sample Images from the MNIST Dataset
-![Sample Images](sample_images.png)
 - This visualization displays a grid of sample images from the MNIST dataset.
 - Each image represents a handwritten digit ranging from 0 to 9.
 - The images are grayscale and have been preprocessed for model training.
 
 #### Training History
-![Training History](training_history.png)
 - The training history plot shows the change in training and validation accuracy and loss over epochs.
 - It helps in understanding the model's convergence and potential overfitting or underfitting issues.
 - The x-axis represents the number of epochs, while the y-axis represents accuracy and loss values.
 
 #### Confusion Matrix
-![Confusion Matrix](confusion_matrix.png)
 - The confusion matrix visualizes the model's classification performance.
 - It shows the number of correct and incorrect predictions for each digit class.
 - The diagonal elements represent the number of correctly classified instances for each class, while off-diagonal elements represent misclassifications.
