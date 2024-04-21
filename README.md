@@ -49,11 +49,6 @@ This project demonstrates the effectiveness of CNNs in digit recognition tasks. 
 - It helps in understanding the model's convergence and potential overfitting or underfitting issues.
 - The x-axis represents the number of epochs, while the y-axis represents accuracy and loss values.
 
-#### Confusion Matrix
-- The confusion matrix visualizes the model's classification performance.
-- It shows the number of correct and incorrect predictions for each digit class.
-- The diagonal elements represent the number of correctly classified instances for each class, while off-diagonal elements represent misclassifications.
-- Brighter colors indicate higher values, highlighting areas of frequent misclassification.
 
 ### Results
 
