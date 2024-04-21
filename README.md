@@ -63,4 +63,4 @@ The CNN model achieved an accuracy of approximately 98% on the test dataset, ind
 # Reference
 Notebook & Data : https://www.kaggle.com/code/abeshith/digitrecognizercnn/notebook </br>
 </br>
-Kaggle-Competition : https://www.kaggle.com/competitions/digit-recognizer
+Kaggle-Competition : https://www.kaggle.com/code/abeshith/digitrecognizercnn
